@@ -1,12 +1,12 @@
 # Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
+title:              "Ying Hua's personal blog"
+description:        "Welcome to Ying Hua's personal blog!"
 author_name:        "Ying Hua" # change this to your name
-logo_url:           https://avatars3.githubusercontent.com/u/2174068?v=4
+logo_url:           https://avatars3.githubusercontent.com/u/2174068?s=100&v=4
 
 # Site Settings
 url:                https://herohua.github.io # main url
-baseurl:            /the-plain
+baseurl:            /index
 permalink:          /:title # Post permalink
 timezone:           Asia/Chongqing # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
